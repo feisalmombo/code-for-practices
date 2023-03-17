@@ -1,5 +1,6 @@
 <?php
 // Quadratic equation: ax^2 + bx + c = 0
+// X = -b +- sqrt(b*2 - 4*a*c) / 2*a
 
 // coefficients
 $a = 2;
